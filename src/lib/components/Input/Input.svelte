@@ -1,9 +1,9 @@
 <script lang="ts">
   export let label: string;
   export let id: string;
-  export let helperText: string | undefined;
+  export let helperText = "";
 
-  const { class: className, ...restProps } = $$props;
+  const { class: className } = $$props;
 </script>
 
 <div class={className}>
@@ -13,7 +13,7 @@
     </label>
   {/if}
 
-  <input {...restProps} class="my-2 px-8 py-4 border border-gray-300 rounded-xl focus:outline-black" />
+  <input {...$$restProps} class="my-2 px-8 py-4 border border-gray-300 rounded-xl focus:outline-black" />
 
   {#if helperText}
     <p class="text-xs text-gray-700">{helperText}</p>

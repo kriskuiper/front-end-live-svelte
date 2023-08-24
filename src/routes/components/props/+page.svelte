@@ -18,7 +18,7 @@
     />
   </div>
 
-  <a href="/components/props" class="text-blue-600 font-bold">
+  <a href="/components/directives" class="text-blue-600 font-bold">
     Nice! Nu verder naar andere dingen
   </a>
 </div>
