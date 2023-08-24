@@ -18,7 +18,7 @@
     />
   </div>
 
-  <a href="/components/directives" class="text-blue-600 font-bold">
-    Nice! Nu verder naar andere dingen
+  <a href="/components/logic-and-loops" class="text-blue-600 font-bold">
+    Volgende: basic logica, if en loops
   </a>
 </div>

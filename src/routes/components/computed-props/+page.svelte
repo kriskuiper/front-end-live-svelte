@@ -11,7 +11,7 @@
 
 <div>
   <a href="/" class="mb-4 block">Terug naar home</a>
-  <h1 class="text-5xl font-bold mb-4">1.3. Reactive declerations (computed props enzo)</h1>
+  <h1 class="text-5xl font-bold mb-4">1.4. Reactive declerations (computed props enzo)</h1>
   <a href="https://learn.svelte.dev/tutorial/reactive-declarations" target="_blank" class="text-blue-600 hover:underline">Meer over reactive declerations in Svelte</a>
   <p>Dit is overigens een dingetje wat in vanilla JavaScript ook kan</p>
 
@@ -32,7 +32,7 @@
     <p>Alles tezaam: <strong>{sentence}</strong></p>
   </div>
 
-  <a href="/components/props" class="text-blue-600 font-bold">
-    Nice! Nu verder naar andere dingen
+  <a href="/components/directives" class="text-blue-600 font-bold">
+    Nice! Ik wil ziekere shit
   </a>
 </div>
