@@ -32,7 +32,7 @@
     <p>Alles tezaam: <strong>{sentence}</strong></p>
   </div>
 
-  <a href="/components/directives" class="text-blue-600 font-bold">
+  <a href="/sveltekit" class="text-blue-600 font-bold">
     Nice! Ik wil ziekere shit
   </a>
 </div>
