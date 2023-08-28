@@ -11,7 +11,7 @@
     {JSON.stringify(data, null, 2)}
   </pre>
 
-  <a href="/components/directives" class="text-blue-600 font-bold">
+  <a href="/sveltekit/form-actions" class="text-blue-600 font-bold">
     Dit is mij te simpel, door naar actions
   </a>
 </div>
